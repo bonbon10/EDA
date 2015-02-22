@@ -1,6 +1,6 @@
 ---
 title: "README.md" 
-output: html_document  
+output: html_document   
 ---
 ## Getting and Cleaning Data: Final Project
 
