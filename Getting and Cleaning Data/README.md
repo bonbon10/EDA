@@ -6,7 +6,7 @@ output: html_document
 
 **Introduction:**
 
-This project uses data from the UCI Machine Learning Repository on wearable devices. The data include acceleration and velocity measurements for 30 volunteers wearing a smartphone on the waist, while they perform six activities. The goal is to create a tidy dataset that contains the average of each variable for each activity and each subject. 
+This project uses data from the UCI Machine Learning Repository on wearable devices. The data include acceleration and velocity measurements for 30 volunteers wearing a smartphone on the waist, while they perform six activities. The goal is to create a tidy dataset that contains the average of each variable for each activity and each subject.  
 
 
 **The following files are included:**
