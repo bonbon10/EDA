@@ -1,4 +1,5 @@
-setwd("C:/Users/Bharvey/Documents/Misc/Coursera/Getting and Cleaning Data/Data/UCI HAR Dataset/")
+# Set working directory - path deleted for privacy reasons
+setwd(")
 
 ################################# 1: MERGING ################################
 # Read in training data and test data
@@ -93,7 +94,8 @@ for (i in 3:68){
 head(tidy)
 
 # Output dataset as txt file
-setwd("C:/Users/Bharvey/Documents/Misc/Coursera/Getting and Cleaning Data/Data")
+# Path deleted for privacy reasons
+setwd("")
 write.table(tidy, file="tidy_data.txt",row.name=FALSE)
 
 
